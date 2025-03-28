@@ -1,5 +1,7 @@
 """
-aiohttp => its a library that looks like requests library but it works asyncrounously
+aiohttp =>
+Asynchronous HTTP client/server for asyncio & python
+its a library that looks like requests library but it works asyncrounously
 """
 
 import aiohttp
